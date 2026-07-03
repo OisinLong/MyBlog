@@ -1,2 +1,5 @@
 # If you are reading this I have made a mistake :0
 .env
+
+# Ugly Jetbrains folder
+.idea/
